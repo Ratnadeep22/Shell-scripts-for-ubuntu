@@ -1,2 +1,2 @@
 # Shell-scripts-for-ubuntu
-These are the basec shell script written to perform basic tasks on files
+These are some shell scripts written to perform basic tasks on single or multiple files in a repository
